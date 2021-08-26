@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="./logo.svg"> <br> <br>
+  <a href="https://martilion.es">
+    <img src="./logo.svg"> <br> <br>
+  </a>
   <samp>
     <a href="https://martilion.es">me</a> ·
     <a href="https://telegram.me/martiliones_blog">blog</a> ·
